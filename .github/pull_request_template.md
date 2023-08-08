@@ -11,6 +11,8 @@
 - [ ] Added sufficient test cases for new changes
 
 ### PR reviewer checklist
-- [ ] Code fix logic is prober
-- [ ] Code quality is good in terms of readability and scalable/modular code
+- [ ] Code follows coding standards
+- [ ] Tests pass
+- [ ] Documentation is updated
+- [ ] No unresolved comments
 
