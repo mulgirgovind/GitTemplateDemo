@@ -4,7 +4,13 @@
 ### Description
 - Add few lines describing the issue/root cause/fix
 
+### Screenshots/Videos: <!-- Remove if not applicable -->
+| Before    | After   |
+| --------- | ------- |
+| [img1](link)      |  [img2](link)    |
+|  [img3](link)      |  [img4](link)     |
 
+---
 ### PR owner checklist
 - [ ] Code build was passing after last change
 - [ ] Test cases are passed
@@ -16,13 +22,13 @@
 - [ ] Documentation is updated
 - [ ] No unresolved comments
 
-> [!NOTE]
+> [!NOTE] <!-- Remove if not applicable -->
 > Highlights information that users should take into account, even when skimming.
 
-> [!IMPORTANT]
+> [!IMPORTANT] <!-- Remove if not applicable -->
 > Crucial information necessary for users to succeed.
 
-> [!WARNING]
+> [!WARNING] <!-- Remove if not applicable -->
 > Critical content demanding immediate user attention due to potential risks.
 
 
